@@ -1,2 +1,2 @@
 # aif
-Development version of the Architect Installation Framework
+Stable version of the Architect Installation Framework
